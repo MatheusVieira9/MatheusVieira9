@@ -3,9 +3,8 @@
 ## My name is Matheus V. Costa, 
 
 
-- 🔭 I’m currently working on Systems Analysis
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Systems Development 
+- 💻 I’m currently working on Systems Analysis
+- 👨‍🎓 I’m currently learning React JS
 - 📫 How to reach me: matheusv99@outlook.com
 
 
