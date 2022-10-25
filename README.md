@@ -1,4 +1,7 @@
-![76dfca2a58c4dff5c9827b527132bda8](https://user-images.githubusercontent.com/86197845/197306738-b98854eb-64f3-4367-b2d0-bc31f57f0564.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86197845/197306738-b98854eb-64f3-4367-b2d0-bc31f57f0564.gif" alt="animated" />
+</p>
+
 
 ### Hi there 👋
 
